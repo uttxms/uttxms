@@ -24,6 +24,6 @@
 
 <img src="https://discord.c99.nl/widget/theme-2/415687999641354250.png" >
 
-<h3 align="left">Metrics:</h3>
-<p><img src="https://metrics.lecoq.io/XBFTW?template=terminal&base.metadata=0&languages=1&languages.skipped=5e7en&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FVancouver" alt="Metrics"></p>
+![Metrics](https://metrics.lecoq.io/xbftw?template=terminal&base.indepth=false&base.hireable=false&config.timezone=America%2FVancouver)
+
 
