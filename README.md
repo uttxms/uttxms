@@ -25,5 +25,5 @@
 <img src="https://discord.c99.nl/widget/theme-2/415687999641354250.png" >
 
 <h3 align="left">Metrics:</h3>
-<p><img src="https://metrics.lecoq.io/XBFTW?template=terminal&amp;languages=1&amp;base.indepth=false&amp;base.hireable=false&amp;languages.limit=8&amp;languages.threshold=0%25&amp;languages.other=true&amp;languages.colors=github&amp;languages.sections=most-used&amp;languages.indepth=false&amp;languages.analysis.timeout=15&amp;languages.categories=markup%2C%20programming&amp;languages.recent.categories=markup%2C%20programming&amp;languages.recent.load=300&amp;languages.recent.days=14&amp;config.timezone=America%2FVancouver" alt="Metrics"></p>
+<p><img src="https://metrics.lecoq.io/XBFTW?template=terminal&base.metadata=0&languages=1&languages.skipped=5e7en&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FVancouver" alt="Metrics"></p>
 
