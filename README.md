@@ -25,8 +25,3 @@
 <img src="https://discord.c99.nl/widget/theme-2/415687999641354250.png" >
 
 ![Metrics](https://metrics.lecoq.io/xbftw?template=terminal&base.indepth=false&base.hireable=false&config.timezone=America%2FVancouver)
-
-<p align="center">
-  <b>~ Visits ~</b><br><br>
-  <img src="https://profile-counter.glitch.me/XBFTW/count.svg">
-</p>
