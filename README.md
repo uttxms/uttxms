@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm XBFTW</h1>
-<h3 align="center">A high-school programmer in Canada.</h3>
+<h3 align="center">An aspiring programmer in Canada.</h3>
 
 - 🔭 I’m currently working on [XBFTW-BOT](https://github.com/XBFTW/XBFTW-BOT)
 
