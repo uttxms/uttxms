@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [XBFTW-BOT](https://github.com/XBFTW/XBFTW-BOT)
 
-- 🌱 I’m currently learning **JavaScript Frameworks, API's**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/XBFTW](https://github.com/XBFTW)
 
