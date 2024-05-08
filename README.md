@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [XBFTW-BOT](https://github.com/XBFTW/XBFTW-BOT)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C** and **C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/XBFTW](https://github.com/XBFTW)
 
-- 📫 How to reach me **XBFTW#7381**
+- 📫 How to reach me **XBFTW** on Discord
 
 - ⚡ Fun fact **Some would say I have big hands.**
 
