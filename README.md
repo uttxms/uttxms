@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm XBFTW</h1>
 <h3 align="center">An aspiring programmer in Canada.</h3>
 
-- 🔭 I’m currently working on [XBFTW-BOT](https://github.com/XBFTW/XBFTW-BOT)
+- 🔭 I’m currently working on: [XBFTW-BOT](https://github.com/XBFTW/XBFTW-BOT)
 
-- 🌱 I’m currently learning **C** and **C++**
+- 🌱 I’m currently learning: **C** and **C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/XBFTW](https://github.com/XBFTW)
+- 👨‍💻 All of my projects are available at: [https://github.com/XBFTW](https://github.com/XBFTW)
 
-- 📫 How to reach me **XBFTW** on Discord
+- 📫 How to reach me: **XBFTW** on Discord
 
-- ⚡ Fun fact **Some would say I have big hands.**
+- ⚡ Fun fact: **Some would say I have big hands.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
