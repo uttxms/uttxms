@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm XBFTW</h1>
+<h1 align="center">Hi 👋, I'm Uttam Sharma</h1>
 <h3 align="center">An aspiring DevOps Engineer in the Lower Mainland region of Canada.</h3>
 
 - 🔭 I’m currently working on: [XBFTW-BOT](https://github.com/XBFTW/XBFTW-BOT)
