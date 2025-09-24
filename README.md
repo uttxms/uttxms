@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **C** and **C++**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/XBFTW](https://github.com/uttxms)
+- 👨‍💻 All of my projects are available at: [https://github.com/uttxms](https://github.com/uttxms)
 
 - 📫 How to reach me: Check my [contacts page](https://uttamsharma.com) on my website for contact information.
 
