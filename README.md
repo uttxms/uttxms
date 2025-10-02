@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uttam Sharma</h1>
 <h3 align="center">An aspiring DevOps Engineer in the Lower Mainland region of Canada.</h3>
 
-- 🔭 I’m currently working on: [XBFTW-BOT](https://github.com/XBFTW/XBFTW-BOT)
+- 🔭 I’m currently working on: [StudySync-AI](https://github.com/CMPT-276-SUMMER-2025/final-project-24-horizons)
 
 - 🌱 I’m currently learning: **C** and **C++**
 
@@ -9,4 +9,4 @@
 
 - 📫 How to reach me: Check my [contacts page](https://uttamsharma.com) on my website for contact information.
 
-- 🕺 Open Source Contributor 
+- 🕺 Open Source Supporter
